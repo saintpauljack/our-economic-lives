@@ -56,4 +56,4 @@ Directory Structure:
 Thanks to Jessie Williams for the opportunity to build this application. Prime Digital Academy who equipped us with the necessary tools to make this application a reality.
 
 ## Support
-If you have suggestions or issues, please email alexlloydwhite@gmail.com, johnturner4004@gmail.com, sam@moudry.net, kjepsen86@gmail.com
+If you have suggestions or issues, please email jesse@saintpauljack.com
