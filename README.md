@@ -6,9 +6,6 @@ Duration: 3 weeks.
 
 An application was needed to guide people through developing a more complete picture of their career path. This happens by tracking professional skills and comparing them to a variety of potential industries. Each user is assigned a 'coach' who will help guide the user through the process.
 
-## Screen Shot
-![Here is an example of the application](gifox file here)
-
 # EDA Project
 This version uses React, Redux, Express, Passport, and PostgreSQL (a full list of dependencies can be found in `package.json`)
 
