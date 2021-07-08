@@ -1,3 +1,6 @@
+![REPO SIZE](https://img.shields.io/github/repo-size/saintpauljack/our-economic-lives.svg?style=flat-square)
+![TOP_LANGUAGE](https://img.shields.io/github/languages/top/saintpauljack/our-economic-lives.svg?style=flat-square)
+
 # Project Name
 Our Economic Lives
 
